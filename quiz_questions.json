@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "correct_answer": "Paris",
+        "options": ["Paris", "London", "Berlin", "Madrid"]
+    },
+    {
+        "id": 2,
+        "question": "What is 2 + 2?",
+        "correct_answer": "4",
+        "options": ["3", "4", "5", "6"]
+    },
+    {
+        "id": 3,
+        "question": "What is the chemical formula for water?",
+        "correct_answer": "H2O",
+        "options": ["CO2", "O2", "H2O", "NaCl"]
+    },
+    {
+        "id": 4,
+        "question": "Was ist die Hauptstadt von Deutschland?",
+        "correct_answer": "Berlin",
+        "options": ["Berlin", "Hamburg", "München", "Köln"]
+    },
+    {
+        "id": 5,
+        "question": "Wer malte die Mona Lisa?",
+        "correct_answer": "Leonardo da Vinci",
+        "options": ["Pablo Picasso", "Vincent van Gogh", "Leonardo da Vinci", "Claude Monet"]
+    },
+    {
+        "id": 6,
+        "question": "Was ist die größte Planet im Sonnensystem?",
+        "correct_answer": "Jupiter",
+        "options": ["Mars", "Venus", "Jupiter", "Saturn"]
+    },
+    {
+        "id": 7,
+        "question": "Wie viele Kontinente gibt es auf der Erde?",
+        "correct_answer": "7",
+        "options": ["5", "6", "7", "8"]
+    },
+    {
+        "id": 8,
+        "question": "Welches Element hat das chemische Symbol O?",
+        "correct_answer": "Sauerstoff",
+        "options": ["Sauerstoff", "Ozon", "Osmium", "Oxygen"]
+    },
+    {
+        "id": 9,
+        "question": "Wie viele Bundesländer hat Deutschland?",
+        "correct_answer": "16",
+        "options": ["14", "16", "18", "20"]
+    },
+    {
+        "id": 10,
+        "question": "Was ist der größte Ozean der Welt?",
+        "correct_answer": "Pazifik",
+        "options": ["Atlantik", "Indischer Ozean", "Pazifik", "Arktischer Ozean"]
+    },
+    {
+        "id": 11,
+        "question": "Wer schrieb 'Hamlet'?",
+        "correct_answer": "William Shakespeare",
+        "options": ["Johann Wolfgang von Goethe", "William Shakespeare", "Friedrich Schiller", "Leo Tolstoi"]
+    },
+    {
+        "id": 12,
+        "question": "Wie heißt der erste Mensch auf dem Mond?",
+        "correct_answer": "Neil Armstrong",
+        "options": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "Michael Collins"]
+    },
+    {
+        "id": 13,
+        "question": "Welche Farbe entsteht durch das Mischen von Blau und Gelb?",
+        "correct_answer": "Grün",
+        "options": ["Lila", "Grün", "Orange", "Braun"]
+    },
+    {
+        "id": 14,
+        "question": "Wie viele Zähne hat ein erwachsener Mensch normalerweise?",
+        "correct_answer": "32",
+        "options": ["28", "30", "32", "34"]
+    },
+    {
+        "id": 15,
+        "question": "Welches Land ist das größte der Welt?",
+        "correct_answer": "Russland",
+        "options": ["Kanada", "USA", "Russland", "China"]
+    },
+    {
+        "id": 16,
+        "question": "Was ist die Währung in Japan?",
+        "correct_answer": "Yen",
+        "options": ["Yuan", "Won", "Yen", "Ringgit"]
+    },
+    {
+        "id": 17,
+        "question": "Welche Farbe hat der Smaragd?",
+        "correct_answer": "Grün",
+        "options": ["Rot", "Blau", "Grün", "Gelb"]
+    },
+    {
+        "id": 18,
+        "question": "In welchem Jahr begann der Zweite Weltkrieg?",
+        "correct_answer": "1939",
+        "options": ["1936", "1939", "1941", "1945"]
+    },
+    {
+        "id": 19,
+        "question": "Wie viele Ringe hat das olympische Symbol?",
+        "correct_answer": "5",
+        "options": ["3", "4", "5", "6"]
+    },
+    {
+        "id": 20,
+        "question": "Welches Land ist bekannt für den Bau der Pyramiden?",
+        "correct_answer": "Ägypten",
+        "options": ["Griechenland", "Ägypten", "Indien", "Mexico"]
+    },
+    {
+        "id": 21,
+        "question": "Wie viele Tasten hat ein klassisches Klavier?",
+        "correct_answer": "88",
+        "options": ["80", "88", "92", "100"]
+    },
+    {
+        "id": 22,
+        "question": "Was ist die chemische Formel für Kochsalz?",
+        "correct_answer": "NaCl",
+        "options": ["NaCl", "KCl", "H2O", "CO2"]
+    },
+    {
+        "id": 23,
+        "question": "Wer entdeckte das Penicillin?",
+        "correct_answer": "Alexander Fleming",
+        "options": ["Marie Curie", "Louis Pasteur", "Alexander Fleming", "Albert Einstein"]
+    },
+    {
+        "id": 24,
+        "question": "Wie heißt der längste Fluss der Welt?",
+        "correct_answer": "Amazonas",
+        "options": ["Nil", "Mississippi", "Amazonas", "Yangtse"]
+    },
+    {
+        "id": 25,
+        "question": "Welches Tier ist das größte Landtier?",
+        "correct_answer": "Afrikanischer Elefant",
+        "options": ["Weißer Hai", "Blauwal", "Afrikanischer Elefant", "Giraffe"]
+    },
+    {
+        "id": 26,
+        "question": "In welchem Land wurde die erste Demokratie erfunden?",
+        "correct_answer": "Griechenland",
+        "options": ["Rom", "Ägypten", "Griechenland", "England"]
+    },
+    {
+        "id": 27,
+        "question": "Wer war der erste Präsident der USA?",
+        "correct_answer": "George Washington",
+        "options": ["Abraham Lincoln", "Thomas Jefferson", "George Washington", "John Adams"]
+    },
+    {
+        "id": 28,
+        "question": "Was ist der Hauptbestandteil von Luft?",
+        "correct_answer": "Stickstoff",
+        "options": ["Sauerstoff", "Kohlendioxid", "Stickstoff", "Wasserstoff"]
+    },
+    {
+        "id": 29,
+        "question": "Was ist die kleinste Einheit des Lebens?",
+        "correct_answer": "Zelle",
+        "options": ["Atom", "Molekül", "Zelle", "Organ"]
+    },
+    {
+        "id": 30,
+        "question": "Welcher Planet ist bekannt als der 'rote Planet'?",
+        "correct_answer": "Mars",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"]
+    }
+]

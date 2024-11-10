@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Quiz Statistiken</title>
+</head>
+<body>
+    <h1>Quiz Statistiken</h1>
+    <h2>Fragen IDs</h2>
+    <ul>
+        {% for id in question_ids %}
+            <li>{{ id }}</li>
+        {% endfor %}
+    </ul>
+    <h2>Gesamtanzahl der Antworten</h2>
+    <p>{{ total_answers }}</p>
+    <h2>Fragen nach Länge sortiert</h2>
+    <ul>
+        {% for question in sorted_questions %}
+            <li>{{ question['text'] }} (ID: {{ question['id'] }})</li>
+        {% endfor %}
+    </ul>
+    <p>Total characters in questions: {{ total_characters }}</p>
+<p>Long Questions:</p>
+<ul>
+    {% for question in long_questions %}
+        <li>{{ question.question }}</li>
+    {% endfor %}
+</ul>
+
+    <a href="/">Zurück zum Quiz</a>
+</body>
+</html>
