@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filtered and Mapped Questions</title>
+</head>
+<body>
+    <h1>Gefilterte und gemappte Fragen-IDs</h1>
+
+    {% if question_ids %}
+        <ul>
+            {% for question_id in question_ids %}
+                <li>{{ question_id }}</li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>Keine Fragen gefunden, die den Kriterien entsprechen.</p>
+    {% endif %}
+</body>
+</html>
